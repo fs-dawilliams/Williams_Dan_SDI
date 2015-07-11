@@ -13,7 +13,7 @@ console.log(userInput);
 
 var age = 2015-userInput;
 console.log("You are "+age+" years old.");
-
+alert("You are "+age+" years old.");
 
 //Calculate the area of a rectangle
 
