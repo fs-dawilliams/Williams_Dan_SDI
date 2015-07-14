@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3/js/day3_casting.js" afterPath="$PROJECT_DIR$/Day3/js/day3_casting.js" />
-    </list>
+    <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="" />
     <ignored path="Williams_Dan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day3_casting.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day3/js/day3_casting.js">
+      <file leaf-file-name="day4_conditionals.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day4/js/day4_conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14006515">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48371336">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -35,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day3Casting.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3/day3Casting.html">
+      <file leaf-file-name="day4Conditional.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day4/day4Conditional.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.857143">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="-1.5714285">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -70,6 +68,8 @@
         <option value="$PROJECT_DIR$/Day3/js/day3_Prompts.js" />
         <option value="$PROJECT_DIR$/Day3/day3Casting.html" />
         <option value="$PROJECT_DIR$/Day3/js/day3_casting.js" />
+        <option value="$PROJECT_DIR$/Day4/day4Conditional.html" />
+        <option value="$PROJECT_DIR$/Day4/js/day4_conditionals.js" />
       </list>
     </option>
   </component>
@@ -81,8 +81,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="172" />
+    <option name="x" value="65" />
+    <option name="y" value="149" />
     <option name="width" value="1347" />
     <option name="height" value="711" />
   </component>
@@ -172,7 +172,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day3" />
+              <option name="myItemId" value="Day4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -186,7 +186,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day3" />
+              <option name="myItemId" value="Day4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -264,7 +264,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="172" width="1347" height="711" extended-state="0" />
+    <frame x="65" y="149" width="1347" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -346,14 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3/day3Casting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.857143">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3/js/day3_Prompts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32410422">
@@ -368,6 +360,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14006515">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/day3Casting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5769231">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/day4Conditional.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5714285">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/js/day4_conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48371336">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
