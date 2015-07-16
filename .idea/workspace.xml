@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="" />
+    <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5/js/day5_steaks.js" afterPath="$PROJECT_DIR$/Day5/js/day5_steaks.js" />
+    </list>
     <ignored path="Williams_Dan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="day5_steaks.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day5/js/day5_steaks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47965115">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.32398316">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,8 +87,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="80" />
+    <option name="x" value="-90" />
+    <option name="y" value="38" />
     <option name="width" value="1257" />
     <option name="height" value="810" />
   </component>
@@ -107,6 +109,9 @@
             <id>Dart</id>
           </State>
           <State>
+            <id>General</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -122,7 +127,16 @@
             <id>JsTestDriverJavaScript</id>
           </State>
           <State>
+            <id>Meteor</id>
+          </State>
+          <State>
             <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -217,7 +231,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
@@ -268,7 +282,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="80" width="1257" height="810" extended-state="0" />
+    <frame x="-90" y="38" width="1257" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -436,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day5/js/day5_steaks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47965115">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.32398316">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
