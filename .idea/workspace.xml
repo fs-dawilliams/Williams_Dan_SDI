@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day6/js/day6_Validation.js" afterPath="$PROJECT_DIR$/Day6/js/day6_Validation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day7/js/day7_beer.js" afterPath="$PROJECT_DIR$/Day7/js/day7_beer.js" />
     </list>
     <ignored path="Williams_Dan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,9 +26,11 @@
       <file leaf-file-name="day7_beer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day7/js/day7_beer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4165498">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.601683">
+              <caret line="18" column="164" selection-start-line="18" selection-start-column="164" selection-end-line="18" selection-end-column="164" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -604,9 +606,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day7/js/day7_beer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4165498">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.601683">
+          <caret line="18" column="164" selection-start-line="18" selection-start-column="164" selection-end-line="18" selection-end-column="164" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
