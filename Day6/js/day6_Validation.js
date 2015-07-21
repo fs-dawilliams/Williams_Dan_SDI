@@ -28,6 +28,8 @@ while(isNaN(userNum) || userNum===""){
 }
 console.log("After the while loop.");
 
+var counter=0;
+
 
 //Ask the user for either red or black
 var color=prompt("Please choose red or black:");
@@ -35,5 +37,10 @@ var color=prompt("Please choose red or black:");
 while(color.toLowerCase()!="red" && color.toLowerCase()!="black"){
     //Reprompt the user using the same variable
     color=prompt("Please only type red or black.\n Choose your color");
+    counter++;
+    if(counter>10){
+        console.log("You have tried to many times.");
+        break;
+    }
 }
 
