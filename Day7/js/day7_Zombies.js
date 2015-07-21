@@ -24,11 +24,34 @@ var days = 8;
 /*
 for(var i=1; i<=days; i++){
     //How many people get infected every day
+ var infectedPeople = numZombies*numBites;
+
+ //How many zombies will we have?
+ numZombies+=infectedPeople;
+
+    console.log("On Day #"+i+" there will be "+numZombies+" zombies!");
+}
+*/
+
+//The CDC wants to know how many days it will take for their to be a million zombies
+
+//Variable to count the number of days
+var numDays=1;
+
+while(numZombies<=1000000){
+    //How many people get infected every day
     var infectedPeople = numZombies*numBites;
 
     //How many zombies will we have?
     numZombies+=infectedPeople;
 
-    console.log("On Day #"+i+" there will be "+numZombies+" zombies!");
+    //report out each day
+    console.log("On Day #"+numDays+" there will be "+numZombies+" zombies!");
+
+    //Increment the day
+    numDays++;
+
 }
-*/
+
+console.log("It will take "+(numDays-1)+" days to make a million zombies!");
+
