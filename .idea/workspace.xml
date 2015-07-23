@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8/js/day8Scope.js" afterPath="$PROJECT_DIR$/Day8/js/day8Scope.js" />
-    </list>
+    <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="" />
     <ignored path="Williams_Dan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,23 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day8Scope.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day8/js/day8Scope.js">
+      <file leaf-file-name="day8_arguPara.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day8/js/day8_arguPara.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21318373">
-              <caret line="51" column="62" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Scope.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day8/day8Scope.html">
+      <file leaf-file-name="day8ArgPara.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day8/day8ArgPara.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.857143">
-              <caret line="10" column="0" selection-start-line="3" selection-start-column="26" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4918033">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -99,6 +95,8 @@
         <option value="$PROJECT_DIR$/Day8/js/day8_Functions.js" />
         <option value="$PROJECT_DIR$/Day8/day8Scope.html" />
         <option value="$PROJECT_DIR$/Day8/js/day8Scope.js" />
+        <option value="$PROJECT_DIR$/Day8/js/day8_arguPara.js" />
+        <option value="$PROJECT_DIR$/Day8/day8ArgPara.html" />
       </list>
     </option>
   </component>
@@ -606,14 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8/day8Scope.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.857143">
-          <caret line="10" column="0" selection-start-line="3" selection-start-column="26" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day8/js/day8Scope.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21318373">
@@ -621,6 +611,30 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/day8Scope.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4918033">
+          <caret line="10" column="0" selection-start-line="3" selection-start-column="26" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/js/day8_arguPara.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/day8ArgPara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4918033">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
