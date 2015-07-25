@@ -48,13 +48,22 @@ console.log("The min value is "+min+".\nThe max value is "+max+".");
 var results1 = randomizer(min,max);
 console.log("Your random number is "+results1);
 
-//15 random numbers to print the console.log
+//15 random numbers between 10 & 20 to print the console.log
+//What the sum of these random numbers are?
+var total = 0;
+//Create a blank array to hold the values
+var randomArray = [];
 for(var i=0; i<15;i++){
-    
-    var tempNum=randomizer(min,max);
+
+    var tempNum=randomizer(10,20);
+    randomArray[i]=tempNum;
     console.log(tempNum);
+    total +=tempNum;
 }
 
+//Console.log the total
+console.log(randomArray);
+console.log("The total of 15 random numbers is "+total);
 
 //Create the random function
 function randomizer(mn, mx){
