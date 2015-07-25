@@ -53,8 +53,7 @@ console.log("Your random number is "+results1);
 var total = 0;
 //Create a blank array to hold the values
 var randomArray = [];
-for(var i=0; i<15;i++){
-
+for(var i=0; i<15;i++) {
     var tempNum=randomizer(10,20);
     randomArray[i]=tempNum;
     console.log(tempNum);
