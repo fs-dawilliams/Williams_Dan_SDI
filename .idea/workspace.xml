@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af368a3a-2b6a-492e-9d9a-2574351ca150" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day9/js/day9_Multiple.js" afterPath="$PROJECT_DIR$/Day9/js/day9_Multiple.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day10/js/day10_review.js" afterPath="$PROJECT_DIR$/Day10/js/day10_review.js" />
     </list>
     <ignored path="Williams_Dan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,9 +26,11 @@
       <file leaf-file-name="day10_review.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day10/js/day10_review.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23141655">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding />
+            <state vertical-scroll-proportion="0.6760168">
+              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +111,8 @@
         <option value="$PROJECT_DIR$/Day9/js/day9Anon.js" />
         <option value="$PROJECT_DIR$/Day9/day9Multiple.html" />
         <option value="$PROJECT_DIR$/Day9/js/day9_Multiple.js" />
-        <option value="$PROJECT_DIR$/Day10/js/day10_review.js" />
         <option value="$PROJECT_DIR$/Day10/day10Review.html" />
+        <option value="$PROJECT_DIR$/Day10/js/day10_review.js" />
       </list>
     </option>
   </component>
@@ -122,8 +124,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="84" />
-    <option name="y" value="69" />
+    <option name="x" value="55" />
+    <option name="y" value="62" />
     <option name="width" value="1282" />
     <option name="height" value="810" />
   </component>
@@ -329,7 +331,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="69" width="1282" height="810" extended-state="0" />
+    <frame x="55" y="62" width="1282" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -771,9 +773,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day10/js/day10_review.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23141655">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
+        <state vertical-scroll-proportion="0.6760168">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
