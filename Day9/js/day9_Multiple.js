@@ -57,7 +57,7 @@ if(userPrompt.toLowerCase()==="yes"){
 if(userPrompt.toLowerCase()==="yes"){
     //Function call to triangle area
     var triAreaTotal = triArea(base,height);
-    console.log(triAreaTotal); 
+    console.log(triAreaTotal);
 }
 
 
